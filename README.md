@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA, Mern stack and AIML etc.**
 
-- 📫 reach me through **Harsha.1si22cs065@gmail.com**
+- 📫 reach me through **dtharsha739@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
